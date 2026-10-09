@@ -10,17 +10,19 @@ Software Engineer • Competitive Programmer • ML & Research Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pragati-chaudhary-8429092b2/">
-    LinkedIn
-  </a>
+  <a href="https://codeforces.com/profile/RainRecall">Codeforces</a>
   •
-  <a href="https://leetcode.com/u/Pragati__Chaudhary/">
-    LeetCode
-  </a>
+  <a href="https://atcoder.jp/users/invertedwinger">AtCoder</a>
   •
-  <a href="mailto:pragati845822@gmail.com">
-    Email
-  </a>
+  <a href="https://www.codechef.com/users/rich_song_32">CodeChef</a>
+  •
+  <a href="https://leetcode.com/u/ca6873/">LeetCode</a>
+  •
+  <a href="https://github.com/Pragati4566">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/pragati-chaudhary-8429092b2/">LinkedIn</a>
+  •
+  <a href="mailto:pragati845822@gmail.com">Email</a>
 </p>
 
 ---
@@ -35,12 +37,7 @@ I enjoy building practical software, solving challenging algorithmic problems, a
 - 📅 Graduating in 2027
 - 📊 CGPA: **9.41**
 - 💻 Interested in Software Engineering, Backend Development & Full-Stack Development
-- 🧠 Solved **1,000+ problems on LeetCode**
-- 📈 Ranked in the **top 99.5 percentile globally** on LeetCode
-- 🔥 Earned the **200-day LeetCode streak badge**
-- ⭐ Peak **Codeforces rating: 1613 (Expert)**
-- 🧩 Solved **900+ Codeforces problems**
-- 🏁 Participated in **30+ competitive programming contests**
+- 🧠 Competitive programming across **LeetCode, Codeforces, AtCoder, and CodeChef**
 - 🔬 Research experience in **Machine Learning & Cybersecurity**
 - 🚀 Software engineering and machine learning internship experience
 
@@ -96,8 +93,6 @@ I enjoy building practical software, solving challenging algorithmic problems, a
 - Designed backend services with **DTOs, validation, exception handling, and Swagger/OpenAPI**
 - Added automated testing and **Docker-based development workflows**
 
----
-
 ### 📈 TradeSphere — Full-Stack Trading Platform
 
 **Java 17 • Spring Boot • Spring Security • React • TypeScript • PostgreSQL • JWT • JPA • WebSocket • Docker**
@@ -126,25 +121,27 @@ Research focused on improving the security and robustness of autonomous vehicle 
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Competitive Programming Profiles
 
-### LeetCode
+<p align="center">
+  <a href="https://codeforces.com/profile/RainRecall">
+    <img src="https://img.shields.io/badge/Codeforces-View%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
+  </a>
+  <a href="https://atcoder.jp/users/invertedwinger">
+    <img src="https://img.shields.io/badge/AtCoder-View%20Profile-222222?style=for-the-badge" alt="AtCoder profile" />
+  </a>
+  <a href="https://www.codechef.com/users/rich_song_32">
+    <img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
+  </a>
+  <a href="https://leetcode.com/u/ca6873/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/Pragati__Chaudhary/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-1000%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"
-  />
-</a>
-
-- 🧠 **1,000+ problems solved**
-- 📈 **Top 99.5 percentile globally**
-- 🔥 **200-day streak badge**
-
-### Codeforces
-
-- ⭐ Peak rating: **1613 (Expert)**
-- 🧩 **900+ problems solved**
-- 🏁 **30+ contests participated**
+- **Codeforces:** Competitive programming and rated contests — [view profile](https://codeforces.com/profile/RainRecall)
+- **AtCoder:** Algorithmic contests and rating history — [view profile](https://atcoder.jp/users/invertedwinger)
+- **CodeChef:** Rated contests and problem-solving — [view profile](https://www.codechef.com/users/rich_song_32)
+- **LeetCode:** Interview-style problem solving and contest participation — [view profile](https://leetcode.com/u/ca6873/)
 
 ---
 
@@ -170,88 +167,35 @@ Research focused on improving the security and robustness of autonomous vehicle 
 
 ### Computer Science
 
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`Design Patterns`
-`DBMS`
-`Operating Systems`
-`Computer Networks`
-`System Design`
-`Software Architecture`
+`Data Structures & Algorithms` `Object-Oriented Programming` `Design Patterns` `DBMS` `Operating Systems` `Computer Networks` `System Design` `Software Architecture`
 
 ### Backend & APIs
 
-`Spring Boot`
-`Spring MVC`
-`Spring Security`
-`Node.js`
-`Express.js`
-`REST APIs`
-`Web Services`
-`API Design`
-`API Integration`
-`Authentication`
-`Authorization`
+`Spring Boot` `Spring MVC` `Spring Security` `Node.js` `Express.js` `REST APIs` `Web Services` `API Design` `API Integration` `Authentication` `Authorization`
 
 ### Frontend
 
-`React.js`
-`TypeScript`
-`HTML`
-`CSS`
-`Responsive UI`
-`Axios`
+`React.js` `TypeScript` `HTML` `CSS` `Responsive UI` `Axios`
 
 ### Testing & Quality
 
-`JUnit`
-`Mockito`
-`Jest`
-`React Testing Library`
-`Postman`
-`Unit Testing`
-`Integration Testing`
-`API Testing`
-`Debugging`
+`JUnit` `Mockito` `Jest` `React Testing Library` `Postman` `Unit Testing` `Integration Testing` `API Testing` `Debugging`
 
 ### Databases
 
-`PostgreSQL`
-`MySQL`
-`MongoDB`
-`SQL`
-`NoSQL`
-`JPA/Hibernate`
-`Database Design`
+`PostgreSQL` `MySQL` `MongoDB` `SQL` `NoSQL` `JPA/Hibernate` `Database Design`
 
 ### DevOps & Cloud
 
-`Git`
-`GitHub`
-`GitHub Actions`
-`CI/CD`
-`Docker`
-`AWS`
-`Google Cloud`
-`Cloud Run`
+`Git` `GitHub` `GitHub Actions` `CI/CD` `Docker` `AWS` `Google Cloud` `Cloud Run`
 
 ### Engineering Practices
 
-`Agile/Scrum`
-`Code Review`
-`Version Control`
-`Technical Documentation`
-`Logging`
-`Monitoring`
-`Observability`
+`Agile/Scrum` `Code Review` `Version Control` `Technical Documentation` `Logging` `Monitoring` `Observability`
 
 ### AI & Machine Learning
 
-`Artificial Intelligence`
-`Machine Learning`
-`Generative AI`
-`Python`
-`Scikit-learn`
+`Artificial Intelligence` `Machine Learning` `Generative AI` `Python` `Scikit-learn`
 
 ---
 
@@ -260,8 +204,7 @@ Research focused on improving the security and robustness of autonomous vehicle 
 ### Indira Gandhi Delhi Technical University for Women, Delhi
 
 **B.Tech in Electronics & Communication Engineering**  
-**2023 – 2027**
-
+**2023 – 2027**  
 **CGPA: 9.41**
 
 ### Silver Oak Academy, Bilari, Moradabad
@@ -288,22 +231,23 @@ Research focused on improving the security and robustness of autonomous vehicle 
 I'm interested in software engineering, competitive programming, machine learning, research, and building practical products.
 
 <p align="center">
+  <a href="https://codeforces.com/profile/RainRecall">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://atcoder.jp/users/invertedwinger">
+    <img src="https://img.shields.io/badge/AtCoder-Profile-222222?style=for-the-badge" alt="AtCoder" />
+  </a>
+  <a href="https://www.codechef.com/users/rich_song_32">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/u/ca6873/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
   <a href="https://www.linkedin.com/in/pragati-chaudhary-8429092b2/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://leetcode.com/u/Pragati__Chaudhary/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"
-    />
-  </a>
-
   <a href="mailto:pragati845822@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
